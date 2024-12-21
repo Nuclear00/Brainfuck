@@ -1,0 +1,29 @@
+# **Hellu!** This is a very easy tutorial to know how to print characters in BrainFuck.
+
+## So firstly, you have to understand the BrainFuck "symbols".
+
+> > moving pointer to the right
+> < moving pointer to the left
+> + increasing the block (byte) by 1
+> - decreasing the block (byte) by 1
+> [ start of a loop
+> ] end of a loop
+> . printing out the ASCII decimal number
+> , it does something but right now I 
+>   didn't used it
+
+# So Dear "Kuncsaft" if you're already memorized those, I think we can start.
+
+> I know that some people can do it shorter, but I think this method is more understandable.
+
+Firstly, I think we should print a "Hello". It's going to look like this:
+
+```
+>+++++++[>++++++++++<-]>++.
+>++++++++++[>++++++++++<-]>+.
+>+++++++++++[>++++++++++<-]>--.
+>+++++++++++[>++++++++++<-]>--.
+>++++++++++[>+++++++++++<-]>+.
+```
+Let's break it down.:
+>>
