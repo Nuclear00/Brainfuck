@@ -5,8 +5,8 @@ I don't like this name, but here you can find some brainfuck programs that i mad
 
 ## So firstly, you have to understand the Brainfuck "symbols".
 
-> > moving pointer to the right
-> < moving pointer to the left
+> ">" moving pointer to the right
+> "<" moving pointer to the left
 > + increasing the block (byte) by 1
 > - decreasing the block (byte) by 1
 > [ start of a loop
