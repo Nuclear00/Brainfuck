@@ -7,12 +7,12 @@ I don't like this name, but here you can find some brainfuck programs that i mad
 
 > ">" moving pointer to the right
 > "<" moving pointer to the left
-> + increasing the block (byte) by 1
-> - decreasing the block (byte) by 1
-> [ start of a loop
-> ] end of a loop
-> . printing out the ASCII decimal number
-> , it does something but right now I 
+> "+" increasing the block (byte) by 1
+> "-" decreasing the block (byte) by 1
+> "[" start of a loop
+> "]" end of a loop
+> "." printing out the ASCII decimal number
+> "," it does something but right now I 
 >   didn't used it
 
 The loop is going until somewhere in the loop hits zerus (0).
