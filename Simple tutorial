@@ -1,6 +1,6 @@
-# **Hellu!** This is a very easy tutorial to know how to print characters in BrainFuck.
+# **Hellu!** This is a very easy tutorial to know how to print characters in Brainfuck.
 
-## So firstly, you have to understand the BrainFuck "symbols".
+## So firstly, you have to understand the Brainfuck "symbols".
 
 > > moving pointer to the right
 > < moving pointer to the left
