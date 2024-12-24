@@ -42,9 +42,9 @@ It's like multiplication:
 I think if you have time to experiment with it, you can learn the basics very quickly.
 
 Some useful links:
--For ASCII code
+- For ASCII code
 https://www.ascii-code.com/  ~
--For interpreting BF:
+- For interpreting BF:
 https://sange.fi/esoteric/brainfuck/impl/interp/i.html
--A more useful, complete guide for Brainfuck:
+- A more useful, complete guide for Brainfuck:
 https://gist.github.com/roachhd/dce54bec8ba55fb17d3a
