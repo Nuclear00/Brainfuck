@@ -43,7 +43,7 @@ I think if you have time to experiment with it, you can learn the basics very qu
 
 Some useful links:
 - For ASCII code
-https://www.ascii-code.com/  ~
+https://www.ascii-code.com/
 - For interpreting BF:
 https://sange.fi/esoteric/brainfuck/impl/interp/i.html
 - A more useful, complete guide for Brainfuck:
